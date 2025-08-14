@@ -18,9 +18,9 @@ email: 'ecesu.urker@upf.edu'
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ecesuurker.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-#twitter_username: 'jamigibbs'
+twitter_username: ''
 github_username: 'ecesuurker'
-#medium_username: 'blog.jamigibbs.com'
+medium_username: ''
 
 # Build settings
 markdown: kramdown
