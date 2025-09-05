@@ -4,7 +4,7 @@ title: Home
 description: >-
   Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
   en diversas etapas del ciclo de desarrollo de aplicaciones.
-image: /assets/images/IMG_0633.jpg
+image: /assets/images/IMG_0069.HEIC
 main_content: >
   # Hello, hola!
 
