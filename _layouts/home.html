@@ -15,7 +15,7 @@ layout: default
   </div>
   <div class="fadeIn mx-4 w-4/5 md:w-2/5 text-center md:text-left mt-6 md:mt-0" data-motion="fadeInRight">
     <div class="prose md:prose-lg prose-h1:text-4xl prose-h2:text-3xl prose-h1:mb-1 dark:prose-invert">
-      {{ XYZ }} #page.main_content | markdownify
+      {{ page.main_content | markdownify}} XYZ
     </div>
     {% if site.contact_channels_section %}
     <p class="mt-4">
