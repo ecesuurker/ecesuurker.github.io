@@ -6,7 +6,7 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # Hello, hola!.
+  # Hello, hola!
 
   My name is Ecesu Ürker and I am a Research Assistant at the Computational Linguistics and Theoretical Linguistics Lab (COLT) at Universitat Pompeu Fabra. My research interests are language change and evolution and modelling them using deep learning techniques. 
 
