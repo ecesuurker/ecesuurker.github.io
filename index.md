@@ -6,7 +6,7 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/IMG_0069.jpg
 main_content: >
-  # Hello, hola!
+  # Hello World!
 
   My name is Ecesu Ürker, and I am a Research Assistant at the [Computational Linguistics and Theoretical Linguistics Lab (COLT)](https://www.upf.edu/web/colt), [Universitat Pompeu Fabra](https://www.upf.edu). My research focuses on language change and evolution, which I study through deep learning and computational modeling.
 
@@ -14,7 +14,7 @@ main_content: >
 footer: true
 permalink: /
 ---
-## Hello World!
+## About me
 
   I hold a Summa Cum Laude Bachelor's degree in Psychology from [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), where I developed a strong interest in the connection between mind and language. To explore this, I gained hands-on experience in Psycholinguistics labs, actively contributing to projects from experimental design to data collection and analysis. Alongside my studies, I took courses in Python programming and Linear Algebra, which provided me with a strong computational foundation.
   Driven by my passion for language and cognition, I pursued a Master’s in Cognitive Science at the [Centro Interdipartimentale Mente/Cervello (CIMeC)](https://www.cimec.unitn.it) at University of Trento, specializing in Computational and Theoretical Modelling of Language and Cognition. During this time, I deepened my knowledge of Theoretical and Computational Linguistics and conducted research at [Fondazione Bruno Kessler (FBK)](https://www.fbk.eu/en/). My projects focused on iconicity in deep learning models and homonym perception in LLMs, culminating in a thesis completed with the 110/110 GPA.
